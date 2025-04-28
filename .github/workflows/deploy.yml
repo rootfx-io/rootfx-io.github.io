@@ -3,25 +3,38 @@ name: Deploy VitePress site to GitHub Pages
 on:
   push:
     branches:
-      - main  # or 'master' or your default branch
+      - main  # or your default branch
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Node.js
+      - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20  # or the version you use
+          node-version: 20  # or your desired Node version
 
-      - name: Install dependencies
-        run: npm install
+      - name: Create package.json
+        run: |
+          echo '{
+            "name": "vitepress-site",
+            "version": "1.0.0",
+            "private": true,
+            "scripts": {
+              "docs:dev": "vitepress dev docs",
+              "docs:build": "vitepress build docs",
+              "docs:preview": "vitepress preview docs"
+            }
+          }' > package.json
+
+      - name: Install VitePress
+        run: npm install vitepress
 
       - name: Build VitePress
-        run: npm run docs:build  # or your custom build command
+        run: npm run docs:build
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
