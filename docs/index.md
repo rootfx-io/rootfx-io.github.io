@@ -1,30 +1,3 @@
----
-layout: home
-title: Rootfx
-hero:
-  name: Rootfx
-  text: Tech, Books, and Deep Thought.
-  tagline: A place for learning, sharing, and growing with Krishna Pattabiraman.
-features:
-  - icon: fluent:book-open-28-regular
-    title: Books by Krishna
-    details: 📚 A collection of books on systems, security, and the philosophy of tech.
-  - icon: mdi:linux
-    title: Linux Insights
-    details: 🐧 Tutorials, tips, and deep dives into the Linux world.
-  - icon: tabler:brain
-    title: Language Models
-    details: 🧠 Articles and experiments exploring large language models and AI.
-  - icon: octicon:person-24
-    title: About Krishna
-    details: 👨‍💻 A researcher, programmer, and thinker.
-  - icon: ph:terminal-window-bold
-    title: Hacker’s Notes
-    details: 🔍 Practical tips, terminal tricks, and daily notes for developers.
-  - icon: mdi:lightbulb-on-outline
-    title: Thoughts and Essays
-    details: 💡 Essays on tech, philosophy, and the intersection of both.
----
 
 ## Welcome to Rootfx
 
