@@ -4,5 +4,8 @@
   "build": "vitepress build docs",
   "serve": "vitepress serve docs/.vitepress/dist"
 }
+   "devDependencies": {
+    "vitepress": "^1.0.0" // or latest
+  }
 }
 
