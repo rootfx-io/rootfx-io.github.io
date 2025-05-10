@@ -1,5 +1,5 @@
 
-## Welcome to Rootfx
+## Welcome to Rootfx 
 
 Rootfx is a space where ideas evolve, and knowledge is shared. It’s a collection of writings, thoughts, and technical insights curated by **Krishna Pattabiraman**, focused on the world of software, systems, and AI. Whether you're a programmer, a Linux enthusiast, or someone exploring the possibilities of modern language models, you’ll find something to inspire you.
 
