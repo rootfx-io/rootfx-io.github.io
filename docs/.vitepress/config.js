@@ -1,5 +1,5 @@
 export default {
-  title: "My Website",
+  title: "Rootfx.io",
   themeConfig: {
     nav: [
       { text: 'Book', link: '/book' },
