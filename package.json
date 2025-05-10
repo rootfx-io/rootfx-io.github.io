@@ -1,6 +1,12 @@
-
-"scripts": {
-  "dev": "vitepress dev docs",
-  "build": "vitepress build docs",
-  "serve": "vitepress serve docs/.vitepress/dist"
+{
+  "name": "my-site",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs/.vitepress/dist"
+  },
+  "dependencies": {
+    "vitepress": "^1.0.0"
+  }
 }
