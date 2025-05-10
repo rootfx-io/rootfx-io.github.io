@@ -1,11 +1,12 @@
 {
-"scripts": {
-  "dev": "vitepress dev docs",
-  "build": "vitepress build docs",
-  "serve": "vitepress serve docs/.vitepress/dist"
-}
-   "devDependencies": {
-    "vitepress": "^1.0.0" // or latest
+  "name": "rootfx-io.github.io",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs/.vitepress/dist"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0"
   }
 }
-
