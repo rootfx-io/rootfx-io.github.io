@@ -1,6 +1,6 @@
 export default {
   title: 'My Site',
-  base: '/rootfx-io.github.io/',  // Important for GitHub Pages!
+  base: '/',  // Important for GitHub Pages!
   themeConfig: {
     nav: [
       { text: 'Book', link: '/book' },
