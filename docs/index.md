@@ -4,80 +4,51 @@ title: Rootfx
 hero:
   name: Rootfx
   text: Tech, Books, and Deep Thought.
-  tagline: The digital garden of Krishna Pattabiraman.
-  actions:
-    - theme: brand
-      text: Browse Blog
-      link: /blog/
-    - theme: alt
-      text: View Books
-      link: /books/
+  tagline: A place for learning, sharing, and growing with Krishna Pattabiraman.
 features:
   - icon: fluent:book-open-28-regular
     title: Books by Krishna
-    details: 📚 Original books on systems, security, and society.
+    details: 📚 A collection of books on systems, security, and the philosophy of tech.
   - icon: mdi:linux
-    title: Linux Deep Dives
-    details: 🐧 Power-user tutorials, shell magic, and tips from years of practice.
+    title: Linux Insights
+    details: 🐧 Tutorials, tips, and deep dives into the Linux world.
   - icon: tabler:brain
     title: Language Models
-    details: 🧠 Practical AI blog posts focused on LLMs, prompts, and custom tools.
+    details: 🧠 Articles and experiments exploring large language models and AI.
   - icon: octicon:person-24
     title: About Krishna
-    details: 👨‍💻 Researcher, tinkerer, and lover of clean, expressive tech.
+    details: 👨‍💻 A researcher, programmer, and thinker.
   - icon: ph:terminal-window-bold
-    title: Hacker's Notes
-    details: 🔍 Short insights and terminal tweaks that matter.
+    title: Hacker’s Notes
+    details: 🔍 Practical tips, terminal tricks, and daily notes for developers.
   - icon: mdi:lightbulb-on-outline
-    title: Ideas & Thought Pieces
-    details: 💡 Essays that blend computing with philosophy and pragmatism.
+    title: Thoughts and Essays
+    details: 💡 Essays on tech, philosophy, and the intersection of both.
 ---
 
-<div style="text-align: center; font-size: 2em; margin-top: 2rem;">
-  <span class="iconify" data-icon="mdi:linux" title="Linux"></span>
-  <span class="iconify" data-icon="fluent:book-20-regular" title="Books"></span>
-  <span class="iconify" data-icon="tabler:brain" title="LLM"></span>
-  <span class="iconify" data-icon="fa6-solid:pen-nib" title="Writing"></span>
-  <span class="iconify" data-icon="ph:terminal-fill" title="Terminal"></span>
-  <span class="iconify" data-icon="material-symbols:developer-mode" title="Developer"></span>
-</div>
+## Welcome to Rootfx
 
-## 📖 Welcome to Rootfx
-
-**Rootfx** is the digital home of **Krishna Pattabiraman** — a space where code, craft, and curiosity converge.
-
-Whether you're exploring the internals of Linux, navigating the capabilities of large language models, or reading essays on modern computing and human thought, this is your entry point.
+Rootfx is a space where ideas evolve, and knowledge is shared. It’s a collection of writings, thoughts, and technical insights curated by **Krishna Pattabiraman**, focused on the world of software, systems, and AI. Whether you're a programmer, a Linux enthusiast, or someone exploring the possibilities of modern language models, you’ll find something to inspire you.
 
 ---
 
-## ✍️ Recent Highlights
+## Recent Highlights
 
-- **🧾 Books**: Long-form works on software engineering and systems.
-- **💻 Linux Guides**: From shell scripting to system calls.
-- **🧠 LLMs & AI**: Real-world applications of language models.
-- **🪄 Notes**: Short, dense, and useful hacker-oriented posts.
-
----
-
-## 🎯 Purpose
-
-> "To share what I know, and learn in public."
-
-Rootfx is for thinkers, tinkerers, and tech-lovers who appreciate both depth and clarity.
+- **Books by Krishna**: Dive into long-form works that explore everything from software engineering to the philosophy of technology.
+- **Linux Insights**: Explore powerful Linux tips, deep dives into system internals, and advanced shell techniques.
+- **Language Models**: Discover the latest on LLMs, prompt engineering, and how AI is shaping our future.
+- **Hacker’s Notes**: Quick hacks, terminal tips, and tricks that make your life as a developer easier.
+- **Essays & Ideas**: Thought-provoking essays that reflect on the intersection of technology, society, and philosophy.
 
 ---
 
-## 🌐 Explore
+## About Krishna Pattabiraman
 
-- [Read the Blog](/blog/)
-- [Explore Krishna’s Books](/books/)
-- [About Krishna](/about/)
-- [GitHub](https://github.com/YOUR_GITHUB_USERNAME)
+Krishna Pattabiraman is a researcher, engineer, and lifelong learner. With a passion for understanding complex systems and the philosophy that drives them, Krishna has spent years exploring the world of Linux, building software, and experimenting with AI and language models. Rootfx is where he shares what he learns with others, and invites you to explore, contribute, and think critically about the world of technology.
 
 ---
 
-## ⭐️ Connect
+## Explore More
 
-If you enjoy Rootfx, give it a star on GitHub or reach out via [email](/contact/).  
-Let’s build things worth thinking about.
+Rootfx is more than just a blog—it's a digital home for curious minds. Stay tuned for regular updates, tutorials, books, and thoughtful reflections. Explore the world of technology, philosophy, and systems as seen through the eyes of a passionate learner.
 
