@@ -30,7 +30,7 @@ export default {
 
   themeConfig: {
     nav: [
-      { text: 'About Me', link: '/about' },     
+      //   { text: 'About Me', link: '/about' },     
       { text: 'Book', link: '/book' },
     //  { text: 'Software', link: '/software' },
       { text: 'Blog', link: '/blog/' }
