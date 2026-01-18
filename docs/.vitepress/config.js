@@ -23,7 +23,7 @@ export default {
       { text: 'Book', link: '/book' },
       { text: 'About Me', link: '/about' },
       { text: 'Software', link: '/software' },
-      { text: 'Blog', link: '/blog' }
+      { text: 'Blog', link: '/blog/' }
     ],
   }
 }
