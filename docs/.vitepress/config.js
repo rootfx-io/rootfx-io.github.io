@@ -1,4 +1,5 @@
 export default {
+  base: '/', 
   title: "Rootfx.io",
   
  head: [
