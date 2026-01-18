@@ -24,4 +24,8 @@ Krishna Pattabiraman is a researcher, engineer, and lifelong learner. With a pas
 ## Explore More
 
 Rootfx is more than just a blog—it's a digital home for curious minds. Stay tuned for regular updates, tutorials, books, and thoughtful reflections. Explore the world of technology, philosophy, and systems as seen through the eyes of a passionate learner.
+<button onclick="gtag('consent', 'update', { analytics_storage: 'granted' })">
+  Accept analytics
+</button>
+
 
