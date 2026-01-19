@@ -10,4 +10,4 @@ You’ll learn Linux fundamentals, Debian internals, and real-world image-buildi
 - QEMU  
 - Raspberry Pi 5 development  
 
-The book will be launched soon. If you’d like to get notified, subscribe on [Substack](https://rootfx.substack.com/).
+The book will be launched soon. If you’d like to get notified, subscribe on [Substack](https://rootfx.substack.com/subscribe).
