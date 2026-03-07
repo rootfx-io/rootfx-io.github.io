@@ -1,9 +1,3 @@
----
-layout: default
-title: Building Embedded Systems with Linux, Raspberry Pi and ELBE
-permalink: /book.html
----
-
 # Building Embedded Systems with Linux, Raspberry Pi and ELBE
 
 A practical guide to building **reproducible embedded Linux systems** using the **ELBE build environment** and **Raspberry Pi**.
